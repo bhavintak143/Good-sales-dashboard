@@ -98,25 +98,5 @@ If `Profit` is not present, it will be automatically calculated.
 
 ---
 
-## 🎯 Future Improvements
 
-* 🔐 User authentication
-* 🤖 AI-based insights
-* 📊 Advanced analytics (forecasting)
-* 🌐 Deployment (Streamlit Cloud)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
-
----
-
-## 👨‍💻 Author
-
-Developed by BHAVIN PRAJAPAT
-
----
 
