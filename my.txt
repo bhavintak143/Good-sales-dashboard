@@ -1,0 +1,9 @@
+cd E:\Project\goods-sales-dashboard-main
+
+py -m venv .venv
+
+.\.venv\Scripts\Activate.ps1
+
+pip install -r requirements.txt
+
+streamlit run dashboard.py
